@@ -1,18 +1,23 @@
-# deep-learning-project
+# Deep Learning Project
 
-This project is focused on practicing deep learning techniques and algorithms.
+## Introduction
+This project focuses on the implementation of various deep learning algorithms and techniques.
 
 ## Features
-- Implementation of various neural network architectures
-- Training and evaluation scripts
-- Datasets and data preprocessing tools
+- Implementation of classic neural networks
+- Support for training and testing models
+- Data preprocessing utilities
 
-## Setup
+## Tech Stack
+- Python
+- TensorFlow / PyTorch
+- NumPy
+
+## Usage
 1. Clone the repository
-2. Install dependencies using `pip install -r requirements.txt`
-3. Run the training script with `python train.py`
+2. Install the required packages using `pip install -r requirements.txt`
+3. Run the main script to train the model
 
 ## Future Plans
-- Explore more advanced models
-- Add more datasets
-- Improve documentation
+- Add more complex models
+- Implement a user interface for easier interaction
